@@ -1,4 +1,6 @@
-# Spring Boot-JPA-Project
+# Spring Boot-JPA-Project 
+##### * 도메인 모델 패턴(http://martinfowler.com/eaaCatalog/domainModel.html) 
+------------
 - 회원 기능
   - 회원 등록
   - 회원 조회
